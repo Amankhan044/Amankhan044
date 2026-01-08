@@ -2,12 +2,13 @@
   <img src="https://routerjockey.com/wp-content/uploads/2017/02/Matrix-code-gif.gif" alt="MasterHead" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">Flutter Developer focused on building scalable, high-performance cross-platform mobile applications using Flutter and Dart. Experienced in clean architecture, modern state management, RESTful API integration, and Firebase, with a strong emphasis on delivering production-ready apps, responsive UI, and smooth, user-centric experiences.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.Y360nvV39CzouDGghqF6MQHaGH&pid=Api&P=0&h=220">
 
 - 🌱 I’m currently learning **Java , Android Development**
 
-- 💬 Ask me about **Flutter , Android**
+- 💬 Ask me about **Flutter Mobile Development**
 
 - 📫 How to reach me **amankhan06a@gmail.com**
 
